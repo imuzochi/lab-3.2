@@ -1,0 +1,3 @@
+1. I used Figma designs to help me visualize what the final product should look like. I made sure to replicate the designs and use it as a benchmark for how my design should look.
+2. One of the challenges I faced was implementing the hover statuses because I had to look at the guidelines to know how to properly implement it. I overcame it though.
+3. The feedback and community resources can help me by giving me advice on my code, and by using that advice I can apply it and learn more for the next timne.

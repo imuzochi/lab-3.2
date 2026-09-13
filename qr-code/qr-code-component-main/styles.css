@@ -21,7 +21,6 @@ body {
 
 #qr_code img {
     width: 100%;
-    /* margin: 5% 10% 0% 5%; */
     border-radius: 3%;
 }
 
@@ -38,7 +37,7 @@ p {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-size: 15px;
+    font-size: 1rem;
     text-align: center;
     color: hsl(216, 15%, 48%);
 }
